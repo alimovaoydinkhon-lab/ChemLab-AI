@@ -1,0 +1,5 @@
+{
+  "name": "ChemLab AI",
+  "description": "An interactive educational platform for chemistry students and teachers, featuring AI-generated experiments, virtual assembly checks, and image analysis tools.",
+  "requestFramePermissions": []
+}
